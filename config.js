@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'John Doe',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Data Scientist. Contemplating the world with data and reason.',
     contacts: {
       email: '#',
       telegram: '#',
