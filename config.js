@@ -34,7 +34,7 @@ module.exports = {
       email: 'nam@namdnguyen.com',
       twitter: 'namdnguyen',
       github: 'namdnguyen',
-      rss: '#',
+      rss: 'rss.xml',
       vkontakte: '#'
     }
   }
