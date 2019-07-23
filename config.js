@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Nam D. Nguyen',
   subtitle: 'Contemplating the world with data and reason.',
-  copyright: '© All rights reserved.',
+  copyright: '© 2019 Nam D. Nguyen',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-144210396-1',
