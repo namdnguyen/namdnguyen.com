@@ -3,10 +3,15 @@ title: "About me"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I am Head of Data at [Homads](https://homads.com) where we are applying data science and geospatial analysis to help make long-term rentals a better experience.
+I am also a PhD Candidate in Political Science at the University of North Texas, concentrating on Political Theory and Political Behavior.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I like to think about the intersection of politics and technology, firmly believing that the education of virtuous citizens is key to a free and happy society.
+I strive to approach problems holistically by using multiple methods and perspectives.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Aside from living in Dallas, TX, I also occasionally make my way down to Austin, TX.
+Love to go rock climbing when I get a chance.
+Big film fan.
+Definitely open to chat or meet up for coffee!
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Best way to reach me is by [email](mailto:nam@namdnguyen.com) or [LinkedIn](https://linkedin.com/in/nnguyen11).
