@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Contemplating the world with data and reason.',
   copyright: '© 2019 Nam D. Nguyen',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-144210396-1',
   useKatex: false,
   menu: [
