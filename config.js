@@ -32,6 +32,7 @@ module.exports = {
       email: '#',
       telegram: '#',
       email: 'nam@namdnguyen.com',
+      linkedin: 'nnguyen11',
       twitter: 'namdnguyen',
       github: 'namdnguyen',
       rss: 'rss.xml',
