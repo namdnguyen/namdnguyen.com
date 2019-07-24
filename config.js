@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Nam D. Nguyen',
-  subtitle: 'Contemplating the world with data and reason.',
+    subtitle: 'Contemplating the world with data and reason. Thoughts on data science, technology, and society.',
   copyright: '© 2019 Nam D. Nguyen',
   disqusShortname: '',
   postsPerPage: 5,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'John Doe',
     photo: '/photo.jpg',
-    bio: 'Data Scientist. Contemplating the world with data and reason.',
+    bio: 'Data Scientist. Contemplating the world with data and reason. Thoughts on data science, technology, and society.',
     contacts: {
       email: '#',
       telegram: '#',
