@@ -1,9 +1,10 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: namdnguyen/namdnguyen.com
 
 media_folder: "static/media"
 public_folder: "/media"
+publish_mode: editorial_workflow
 
 collections:
   - name: "posts"
