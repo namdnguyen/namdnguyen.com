@@ -31,19 +31,6 @@ Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is
 
 Open the `blog` directory in your code editor of choice and edit `src/templates/index-template.js`. Save your changes and the browser will update in real time!
 
-## Access Locally
-```
-$ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
-$ cd [REPO_NAME]
-$ yarn
-$ yarn develop
-```
-To test the Netlify CMS locally, you'll need run a production build of the site:
-```
-$ yarn build
-$ gatsby serve
-```
-
 ## Folder Structure
 
 ```
