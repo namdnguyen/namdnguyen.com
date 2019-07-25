@@ -25,16 +25,16 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Nam D. Nguyen',
     photo: '/photo.jpg',
     bio: 'Data Scientist. Contemplating the world with data and reason. Thoughts on data science, technology, and society.',
     contacts: {
-      telegram: '',
       email: 'nam@namdnguyen.com',
       linkedin: 'nnguyen11',
       twitter: 'namdnguyen',
       github: 'namdnguyen',
       rss: 'rss.xml',
+      telegram: '',
       vkontakte: ''
     }
   }
