@@ -1,9 +1,9 @@
 ---
-title: Best Python Tutorial for Daily Office Work Automation
+title: Best Python Tutorial for Automating Daily Office Work
 date: "2018-07-23T08:00:00.000Z"
 template: "post"
 draft: false
-slug: "/posts/best-python-tutorial-office-work-automation"
+slug: "/posts/best-python-tutorial-automating-office-work"
 category: "Python"
 tags:
   - "Education"
@@ -12,7 +12,7 @@ tags:
   - "Automation"
 description: "What are the best online tutorials to learn Python automation to remove the repeated tasks from daily office work?"
 ---
-[Automate the Boring Stuff with Python](http://automatetheboringstuff.com/) was created primarily to help beginners learn Python or to help non-programmers reach another level of productivity with Python at work. I also have some suggestions on non-Python tools that I recommend using to improve office productivity.
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) was created primarily to help beginners learn Python or to help non-programmers reach another level of productivity with Python at work. I also have some suggestions on non-Python tools that I recommend using to improve office productivity.
 
 The entire book is available to read for free online. It's presented in a very approachable way with exercises along the way to test your knowledge. There are also mini-projects for you to apply what you just learned.
 
