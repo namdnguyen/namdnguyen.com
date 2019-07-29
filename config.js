@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://namdnguyen.com',
   pathPrefix: '/',
   title: 'Nam D. Nguyen',
   subtitle: 'Contemplating the world with data and reason. Thoughts on data science, technology, and society.',
