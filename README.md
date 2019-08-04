@@ -79,9 +79,9 @@ https://github.com/alxshelepenok/gatsby-starter-lumen
 
 All other code for this software is licensed under the MIT License.
 
-Copyright (c) for portions of namdnguyen.com are held by Alexander Shelepenok,
-2016-2019 as part of gatsby-starter-lumen. All other copyright for
-namdnguyen.com are held by Nam D. Nguyen, 2019.
+Copyright (c) 2019 Nam D. Nguyen
+
+Copyright (c) 2016-2019 Alexander Shelepenok
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
