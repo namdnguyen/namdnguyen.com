@@ -1,6 +1,12 @@
 The MIT License (MIT)
 
-Copyright (c) 2016-2018 Alexander Shelepenok
+This software contains code from gatsby-starter-lumen under the MIT License:
+
+https://github.com/alxshelepenok/gatsby-starter-lumen
+
+All other code for this software is licensed under the MIT License.
+
+Copyright (c) for portions of namdnguyen.com are held by Alexander Shelepenok, 2016-2019 as part of gatsby-starter-lumen. All other copyright for namdnguyen.com are held by Nam D. Nguyen, 2019.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
