@@ -2,7 +2,7 @@ backend:
   name: github
   repo: namdnguyen/namdnguyen.com
 
-media_folder: "static/media"
+media_folder: "content/media"
 public_folder: "/media"
 publish_mode: editorial_workflow
 
