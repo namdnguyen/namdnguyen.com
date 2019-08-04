@@ -35,11 +35,12 @@ Open the `blog` directory in your code editor of choice and edit `src/templates/
 
 ```
 └── content
+    └── media
     ├── pages
     └── posts
 └── static
     ├── admin
-    └── media
+    └── css
 └── src
     ├── assets
     │   └── scss
