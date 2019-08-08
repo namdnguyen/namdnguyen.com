@@ -70,6 +70,12 @@ Open the `blog` directory in your code editor of choice and edit `src/templates/
     └── utils
 ```
 
+## Testing
+
+[![BrowserStack](https://bstacksupport.zendesk.com/attachments/token/SnOw9DpFfdbEB0o1yIGsKwvNq/?name=browserstack-logo-600x315.png)](https://www.browserstack.com/)
+
+We use [BrowserStack](https://www.browserstack.com/) to test cross browser experiences on different devices. We plan on using the automated selenium test new features and changes.
+
 ## License and Copyright
 
 The MIT License (MIT)
