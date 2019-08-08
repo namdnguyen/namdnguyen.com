@@ -16,6 +16,7 @@
       "groupName": "react"
     }
   ],
+  "ignoreUnstable": true,
   "labels": ["renovate"],
   "prHourlyLimit": 4,
   "prConcurrentLimit": 16,
@@ -23,7 +24,7 @@
   "bumpVersion": null,
   "semanticCommits": true,
   "timezone": "America/Chicago",
-  "schedule": "before 5am every weekday",
+  "schedule": "after 10pm and before 5am on monday and wednesday",
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": "after 10pm on sunday"
