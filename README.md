@@ -1,6 +1,6 @@
 # namdnguyen.com
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/a7ee7e96-b44a-4a1a-8ef8-9a4d14b0b5e6/deploy-status)](https://app.netlify.com/sites/namdnguyen/deploys)
+[![License: MIT](https://badgen.net/badge/license/MIT/blue)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/a7ee7e96-b44a-4a1a-8ef8-9a4d14b0b5e6/deploy-status)](https://app.netlify.com/sites/namdnguyen/deploys)
 
 This is a site built with [Gatsby.js](https://www.gatsbyjs.org/) using [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen).
 
@@ -72,7 +72,9 @@ Open the `blog` directory in your code editor of choice and edit `src/templates/
 
 ## Testing
 
-[![BrowserStack](https://bstacksupport.zendesk.com/attachments/token/SnOw9DpFfdbEB0o1yIGsKwvNq/?name=browserstack-logo-600x315.png)](https://www.browserstack.com/)
+<a href="https://browserstack.com/">
+  <img src="https://bstacksupport.zendesk.com/attachments/token/SnOw9DpFfdbEB0o1yIGsKwvNq/?name=browserstack-logo-600x315.png" alt="BrowserStack" width="200px"/>
+</a>
 
 We use [BrowserStack](https://www.browserstack.com/) to test cross browser experiences on different devices. We plan on using the automated selenium test new features and changes.
 
