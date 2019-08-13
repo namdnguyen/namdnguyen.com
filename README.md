@@ -1,6 +1,6 @@
 # namdnguyen.com
 
-[![License: MIT](https://badgen.net/badge/license/MIT/blue)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/a7ee7e96-b44a-4a1a-8ef8-9a4d14b0b5e6/deploy-status)](https://app.netlify.com/sites/namdnguyen/deploys)
+[![License: MIT](https://img.shields.io/github/license/namdnguyen/namdnguyen.com)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/a7ee7e96-b44a-4a1a-8ef8-9a4d14b0b5e6/deploy-status)](https://app.netlify.com/sites/namdnguyen/deploys)
 
 This is a site built with [Gatsby.js](https://www.gatsbyjs.org/) using [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen).
 
