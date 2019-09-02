@@ -24,7 +24,7 @@
   "bumpVersion": null,
   "semanticCommits": true,
   "timezone": "America/Chicago",
-  "schedule": "after 10pm and before 5am on monday and wednesday",
+  "schedule": "after 10pm and before 5am on monday and friday",
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": "after 10pm on sunday"
