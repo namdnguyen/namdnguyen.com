@@ -25,13 +25,13 @@
   "semanticCommits": true,
   "timezone": "America/Chicago",
   "automerge": true,
-  "schedule": "after 10pm and before 5am on monday and friday",
+  "schedule": "after 10pm and before 3am on sunday",
   "major": {
       "automerge": false,
       "schedule": "after 10pm on the 1st and 15th day of the month"
   },
   "lockFileMaintenance": {
     "enabled": true,
-    "schedule": "after 10pm on sunday"
+    "schedule": "after 3am and before 5am on monday"
   }
 }
