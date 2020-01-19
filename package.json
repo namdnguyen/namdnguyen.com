@@ -38,7 +38,7 @@
     "disqus"
   ],
   "dependencies": {
-    "autoprefixer": "9.7.3",
+    "autoprefixer": "9.7.4",
     "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
     "codecov": "^3.6.1",
