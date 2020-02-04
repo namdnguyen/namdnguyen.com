@@ -23,6 +23,7 @@
   "rangeStrategy": "bump",
   "bumpVersion": null,
   "semanticCommits": true,
+  "stabilityDays": 3,
   "schedule": "monthly",
   "timezone": "America/Chicago",
   "automerge": true,
