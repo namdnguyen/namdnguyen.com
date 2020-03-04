@@ -16,6 +16,7 @@
       "groupName": "react"
     }
   ],
+  "enabled": false,
   "ignoreUnstable": true,
   "labels": ["renovate"],
   "prHourlyLimit": 10,
