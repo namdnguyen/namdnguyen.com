@@ -25,13 +25,14 @@
   "bumpVersion": null,
   "semanticCommits": true,
   "stabilityDays": 3,
-  "schedule": "monthly",
+  "schedule": "before 3am on the fifth day of the month",
   "timezone": "America/Chicago",
   "automerge": true,
   "major": {
       "automerge": false
   },
   "lockFileMaintenance": {
-    "enabled": true
+      "enabled": true,
+      "schedule": "before 3am on the seventh day of the month"
   }
 }
