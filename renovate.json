@@ -19,13 +19,12 @@
   "enabled": true,
   "ignoreUnstable": true,
   "labels": ["renovate"],
-  "prHourlyLimit": 10,
-  "prConcurrentLimit": 16,
+  "prHourlyLimit": 3,
   "rangeStrategy": "bump",
   "bumpVersion": null,
   "semanticCommits": true,
   "stabilityDays": 3,
-  "schedule": "before 3am on the 5th day of the month",
+  "schedule": "after 10pm and before 5am every weekday",
   "timezone": "America/Chicago",
   "automerge": true,
   "major": {
@@ -33,6 +32,6 @@
   },
   "lockFileMaintenance": {
       "enabled": true,
-      "schedule": "before 3am on the 7th day of the month"
+      "schedule": "after 10pm and before 5am on sunday"
   }
 }
