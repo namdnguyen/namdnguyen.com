@@ -24,7 +24,7 @@
   "bumpVersion": null,
   "semanticCommits": true,
   "stabilityDays": 3,
-  "schedule": "after 10pm and before 5am every weekday",
+  "schedule": "after 10pm and before 5am every Friday",
   "timezone": "America/Chicago",
   "automerge": true,
   "major": {
